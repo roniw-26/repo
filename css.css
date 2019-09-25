@@ -1,0 +1,30 @@
+.pol {
+	padding-top: 1%;
+}
+
+.naf form{
+	margin-left: 60%;
+}
+.button {
+	
+    border:2px solid #ff7f50;
+    background-color: #ff7f50;
+    color:#fafafa;
+    
+}
+.button:hover  {
+    background-color:#fafafa;
+    color:#ff7f50;
+}
+.bodi img{
+	margin-bottom: 20px;
+}
+
+footer {
+	position :absolute;
+	width: 100%;
+	height: 135px;
+	background-color: #ff7f50;
+	padding-top: 20px;
+	font-size: 0.8em;
+}

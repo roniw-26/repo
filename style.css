@@ -1,0 +1,44 @@
+hr{
+	width : 200px;
+	border-top : 2px solid #999;
+}
+
+.naf a{
+	color: #ff7f50;
+	margin-right: 5px;
+	margin-bottom: 10px; 
+}
+.naf p{
+	margin-bottom: 30px;
+}
+.naf img{
+	margin-top: 5px;
+	margin-bottom: -15px;
+}
+.naf form{
+	margin-left: 900px;
+	margin-top: -80px;
+	margin-bottom: 35px;
+}
+.search {
+    padding:8px 30px;
+    background:rgba(50, 50, 50, 0.2);
+    border:0px solid #dbdbdb;
+    margin-bottom: 20px;
+
+}
+.button {
+	position: absolute;	
+	margin-left: 1100px;
+    padding:6px 15px;
+    left:-8px;
+    border:2px solid #ff7f50;
+    background-color: #ff7f50;
+    color:#fafafa;
+    margin-bottom: -200px;
+}
+.button:hover  {
+    background-color:#fafafa;
+    color:#ff7f50;
+}
+.pol
